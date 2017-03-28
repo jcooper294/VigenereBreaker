@@ -1,2 +1,0 @@
-# WeightedSuggestions
-Coursera CapStone Project
